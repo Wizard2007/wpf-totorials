@@ -3,7 +3,6 @@ using System.Collections.ObjectModel;
 
 namespace FirstApp.ViewModel
 {
-
     public class StudentViewModel
     {
         public ObservableCollection<Student> Students { get; set; }
