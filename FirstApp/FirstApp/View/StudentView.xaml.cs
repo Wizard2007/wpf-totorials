@@ -13,14 +13,14 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace FirstApp
+namespace FirstApp.View
 {
     /// <summary>
-    /// Interaction logic for UserControl1.xaml
+    /// Interaction logic for StudentView.xaml
     /// </summary>
-    public partial class UserControl1 : UserControl
+    public partial class StudentView : UserControl
     {
-        public UserControl1()
+        public StudentView()
         {
             InitializeComponent();
         }
